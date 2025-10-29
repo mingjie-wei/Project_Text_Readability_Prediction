@@ -16,7 +16,7 @@ These combined features are fed into a Random Forest Regressor to predict the fi
 
 Our methodology was validated through a three-phase experiment. Our final model, which combines all three feature sets, achieved a **Root Mean Squared Error (RMSE) of 0.6997** on a 20% held-out test set. This significantly outperformed our baseline model (Statistical Features only, RMSE: 0.8884).
 
-A detailed analysis, discussion of pros/cons, and qualitative examples are available in our final report: `A Feature-Based Approach to Text Readability Prediction.pdf`.
+A detailed analysis, discussion of pros/cons, and qualitative examples are available in our final report: [Report_A Feature-Based Approach to Predicting Text Readability.pdf](Report_A Feature-Based Approach to Predicting Text Readability.pdf).
 
 ## How to Run This Project
 
